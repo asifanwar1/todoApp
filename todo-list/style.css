@@ -1,0 +1,82 @@
+*{
+    background-color: aliceblue;
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 20px;
+}
+
+body{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+    font-size: 50px;
+    padding-left: 100px;
+}
+
+.inputField{
+    width: 300px;
+    border-color: rgb(10, 149, 230);
+    background-color: rgb(230, 237, 243);
+    border-width: 2px;
+    border-radius: 10px;
+}
+
+.btn{
+    width: 100px;
+    border-color: rgb(10, 149, 230);
+    background-color: rgb(230, 237, 243);
+    border-width: 2px;
+    border-radius: 10px;
+}
+
+.editbutton{
+    width: 100px;
+    border-color: rgb(10, 149, 230);
+    background-color: rgb(230, 237, 243);
+    border-width: 2px;
+    border-radius: 10px;
+    left: 864px;
+    position: fixed;
+    
+}
+
+
+.deletebtn{
+    width: 100px;
+    border-color: rgb(10, 149, 230);
+    background-color: rgb(230, 237, 243);
+    border-width: 2px;
+    border-radius: 10px;
+    position: fixed;
+    left: 970px;
+}
+
+p{
+    width: 250px;
+    display: inline-block;
+    margin-top: 8px;
+    background-color: rgb(230, 237, 243);
+    border-radius: 10px;
+}
+
+li{
+    border-color: black;
+    border-width: 3px;
+    margin-bottom: 20px;
+    
+}
+
+.editInput{
+    width: 280px;
+    cursor:text;
+    background-color: rgb(230, 237, 243);
+    border: none;
+    
+}
+
+
+
+
